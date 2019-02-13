@@ -6,6 +6,9 @@
   ],
   "repository": "https://github.com/dreamhouseapp/dreamhouse-web-app",
   "addons": [
-    "heroku-postgresql:standard-0"
+    "heroku-postgresql",
+    "options": {
+      "plan": "heroku-postgresql:standard-0"
+    }
   ]
 }
