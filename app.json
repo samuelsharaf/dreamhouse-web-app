@@ -6,7 +6,7 @@
   ],
   "repository": "https://github.com/samuelsharaf/dreamhouse-web-app",
   "addons": [
-    "herokuconnect:danketsu",
+    "herokuconnect:demo",
     "heroku-postgresql:standard-0"
   ]
 }
